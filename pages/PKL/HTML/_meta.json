@@ -2,13 +2,16 @@
   "Pengertian HTML": {
     "title": "Pengertian HTML",
     "type": "page",
+    "newWindow": true
   }
   "Basic": {
     "title": "Basic",
     "type": "page",
+    "newWindow": true
   }
   "Elemens": {
     "title": "Elemens",
     "type": "page",
+    "newWindow": true
   }
 }
