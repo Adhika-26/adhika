@@ -1,12 +1,14 @@
 {
-  "Pengertian HTML": "Pengertian HTML",
-  "Basic": "Basic",
-  "Elemens": "Elemens",
-
-  "contact": {
-    "title": "Contact ↗",
+  "Pengertian HTML": {
+    "title": "Pengertian HTML",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+  }
+  "Basic": {
+    "title": "Basic",
+    "type": "page",
+  }
+  "Elemens": {
+    "title": "Elemens",
+    "type": "page",
   }
 }
