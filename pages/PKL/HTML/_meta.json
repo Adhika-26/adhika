@@ -4,10 +4,9 @@
   "Editors": "Editors",
   "Elemens":"Elemens",
    
-  "contact": {
-    "title": "Contact ↗",
+  " ": {
+    "title": " ",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
     "newWindow": true
   }
 }
